@@ -31,6 +31,7 @@ interface WebSocketProviderProps {
     maxReconnectAttempts?: number;
     /**
      * The timeout between each automatic reconnection attempt; only applicable if autoReconnect is set to true.
+     * Default is 5000 (5 seconds).
      */
     autoReconnectTimeout?: number;
 }

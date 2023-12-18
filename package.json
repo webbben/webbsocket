@@ -1,10 +1,17 @@
 {
   "name": "webbsocket",
   "version": "1.0.0",
-  "description": "Ben&#x27;s very own websocket package (for some reason the name makes me giggle too)",
+  "description": "Ben Webbs very own React websocket provider package (for some reason the name makes me giggle too)",
   "author": "webbben",
   "license": "MIT",
-  "repository": "webbben/webbsocket",
+  "repository": "https://github.com/webbben/webbsocket",
+  "keywords": [
+    "react",
+    "websocket",
+    "provider",
+    "webbsocket",
+    "webbben"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
