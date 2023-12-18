@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-npm install --save webbsocket
+npm install --save @webbben/webbsocket
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "webbsocket",
+  "name": "@webbben/webbsocket",
   "version": "1.0.0",
   "description": "Ben Webbs very own React websocket provider package (for some reason the name makes me giggle too)",
   "author": "webbben",
