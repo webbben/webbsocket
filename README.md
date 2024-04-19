@@ -1,8 +1,8 @@
 # webbsocket
 
-> Ben Webb's very own React websocket provider package (for some reason the name makes me giggle too)
+> Ben Webb's very own React websocket provider package
 
-[![NPM](https://img.shields.io/npm/v/webbsocket.svg)](https://www.npmjs.com/package/webbsocket) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@webbben/webbsocket.svg)](https://www.npmjs.com/package/@webbben/webbsocket) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 [Github Repo](https://github.com/webbben/webbsocket)
 
